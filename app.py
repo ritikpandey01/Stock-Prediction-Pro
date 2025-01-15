@@ -179,11 +179,11 @@ with st.sidebar:
     elif 'Mid Term' in prediction_term:
         days_to_predict = st.selectbox(
             'Minutes to Predict Ahead',
-            options=[1, 2, 5, 15, 30]
+            options=[60,90]
         )
         analysis_period = st.selectbox(
             'Historical Data Period To Analyse(Days)',
-            options=[1, 5, 30]
+            options=[5, 30]
 
         )
         
