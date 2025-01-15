@@ -190,7 +190,7 @@ with st.sidebar:
     else:
         days_to_predict = st.selectbox(
             'Days to Predict Ahead',
-            options=[1]
+            options=[1,5]
         )
         analysis_period = st.selectbox(
             'Historical Data Period To Analyse (Months)',
