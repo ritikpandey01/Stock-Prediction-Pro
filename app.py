@@ -122,8 +122,27 @@ st.markdown("""
 
 # App title
 st.markdown("""
-    <h1>🔮 Advanced Stock Price Prediction</h1>
+    <style>
+        .glowing-title {
+            background: linear-gradient(to right, #0a0a0a, #1b1b1b); /* Subtle gradient fill */
+            color: #00ff00; /* Bright green text */
+            font-weight: bold; /* Bold text */
+            font-size: 2.5rem; /* Larger font size */
+            padding: 20px 0; /* Proportional height */
+            text-align: center; /* Center the text */
+            border: 4px solid #00ff00; /* Thicker green border */
+            border-radius: 15px; /* Rounded corners */
+            box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00; /* Strong glowing effect */
+            width: 100%; /* Full width */
+            margin: 0; /* No margin for full width */
+        }
+    </style>
+    <h1 class="glowing-title">🔮 Advanced Stock Price Prediction</h1>
 """, unsafe_allow_html=True)
+
+
+
+
 
 # Session state initialization
 if 'datasets' not in st.session_state:
@@ -133,7 +152,7 @@ if 'predictions' not in st.session_state:
 
 # Sidebar
 with st.sidebar:
-    st.markdown("### Trading Configuration")
+    st.markdown("### 🛠️ **Trading Configuration**")
     
     # Stock symbol input (simple text input)
     company_symbol = st.text_input("Enter Stock Symbol (e.g., AAPL)", key='symbol')
@@ -142,11 +161,11 @@ with st.sidebar:
     st.markdown("### Time Horizon")
     prediction_term = st.selectbox(
         'Select Prediction Term',
-        ['Short Term', 'Mid Term', 'Long Term']
+        ['📅 Short Term', '📅 Mid Term', '📅 Long Term']
     )
     
     # Time selectors (select boxes instead of sliders)
-    if prediction_term == 'Short Term':
+    if 'Short Term' in prediction_term:
         days_to_predict = st.selectbox(
             'Minutes to Predict Ahead',
             options=[1, 2, 5, 15, 30]
@@ -157,7 +176,7 @@ with st.sidebar:
 
         )
         
-    elif prediction_term == 'Mid Term':
+    elif 'Mid Term' in prediction_term:
         days_to_predict = st.selectbox(
             'Minutes to Predict Ahead',
             options=[1, 2, 5, 15, 30]
@@ -171,27 +190,27 @@ with st.sidebar:
     else:
         days_to_predict = st.selectbox(
             'Days to Predict Ahead',
-            options=[1, 5]
+            options=[1]
         )
         analysis_period = st.selectbox(
             'Historical Data Period To Analyse (Months)',
-            options=[1, 3, 6,12,24,36]
+            options=[1, 3, 6,12]
 
         )
 
     # Risk management section
     st.markdown("### Risk Management")
     risk_percentage = st.selectbox(
-        "Risk per Trade (%)",
+        "💸 Risk per Trade (%)",
         options=[0.1, 0.5, 1.0, 2.0, 3.0, 4.0, 5.0]
     )
     
     stop_loss = st.selectbox(
-        "Stop Loss (%)",
+        "🚫 Stop Loss (%)",
         options=[0.5, 1.0, 2.0, 3.0, 5.0, 7.0, 10.0]
     )
 
-    analyze_button = st.button('🔮 Analyze Stock')
+    analyze_button = st.button('🔮 **Analyze Stock**')
 
 # Main content area
 if analyze_button and company_symbol:
