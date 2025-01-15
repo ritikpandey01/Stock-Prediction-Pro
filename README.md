@@ -1,6 +1,6 @@
 # 🔮 Advanced Stock Price Prediction Pro
 
-A powerful stock price prediction and analysis tool built with Streamlit, featuring technical analysis, pattern recognition, and machine learning-based predictions.
+A powerful stock price prediction and analysis tool for intra day trading built with Streamlit, featuring technical analysis, pattern recognition, and machine learning-based predictions.
 
 ## 🌟 Features
 
