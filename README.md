@@ -54,7 +54,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Smart buy, sell, and hold signals for optimized decision-making.  
 📌 AI-based trend forecasting for improved predictions.
 
-![AI Trading Signals](images/ai_trading_signals_screenshot.png)
+![AI Trading Signals](images/ai_trading_signal_screenshot.png)
 
 ---
 
