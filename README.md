@@ -1,107 +1,102 @@
 # 🔮 Advanced Stock Price Prediction Pro
 
-A powerful stock price prediction and analysis tool for intra day trading built with Streamlit, featuring technical analysis, pattern recognition, and machine learning-based predictions.
+A cutting-edge stock analysis and prediction platform that integrates AI, real-time market insights, and portfolio management.
 
-## 🌟 Features
+## 🚀 Live Demo  
+👉 **[Access the Application](#)** 
 
-- **Real-time Stock Data Analysis**: Fetch and analyze current market data
-- **Advanced Technical Indicators**: RSI, MACD, Bollinger Bands, and more
-- **Pattern Recognition**: Detect common chart patterns like Double Tops and Head & Shoulders
-- **Machine Learning Predictions**: Multiple models including XGBoost, CatBoost, and traditional algorithms
-- **Interactive Visualizations**: Dynamic charts and graphs powered by Plotly and Matplotlib
-- **Risk Management Tools**: Built-in stop loss and position sizing calculations
+---
 
-## 🚀 Getting Started
+## 🌟 Key Features  
 
-### Prerequisites
+### ✅ User Interface  
+![UI Screenshot](images/GUI_screenshot.png)  
+A sleek and intuitive UI for seamless stock analysis.  
 
-```bash
-- Python 3.8+
-- pip
-```
+### ✅ Stock Input Section  
+![Stock Input](images/input_sc.png)  
+Enter stock symbols, set time horizons, and configure risk settings.  
 
-### Installation
+### ✅ Graphical Price Analysis  
+![Graphical Analysis](images/Advanced_price_analysis_screenshot.png)  
+Interactive price charts to visualize stock trends.  
 
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/stock-prediction-pro.git
-cd stock-prediction-pro
-```
+### ✅ Advanced Data Analysis  
+![Advanced Data](images/Advanced_data_analysis_screenshot.png)  
+Detailed insights into stock movement and behavior.  
 
-2. Create a virtual environment (recommended)
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+### ✅ Technical Indicators  
+![Technical Indicators](images/technical-indicators.png)  
+Includes RSI, MACD, Bollinger Bands, Moving Averages, and more.  
 
-3. Install required packages
-```bash
-pip install -r requirements.txt
-```
+### ✅ Trading Signals  
+![Trading Signals](images/trading_signals_screenshot.png)  
+AI-driven buy, sell, and hold signals for smarter trading decisions.  
 
-4. Set up your Alpha Vantage API key
-- Get a free API key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key)
-- Replace `YOUR_ALPHA_VANTAGE_API_KEY` in `model.py` with your actual API key
+### ✅ AI-Based Predictions  
+![ML Predictions](images/ML_based_pred_screenshot.png)  
+Predictions using models like SVM, KNN, Decision Trees, and XGBoost.  
 
-5. Run the application
-```bash
-streamlit run app.py
-```
+### ✅ Pattern Recognition  
+![Pattern Recognition](images/Patter_analysis_screenshot.png)  
+Identifies patterns such as Head & Shoulders, Double Tops, and Triangles.  
 
-## 📊 Usage
+### ✅ Portfolio & Risk Management  
+![Portfolio](images/PortfolioAndRiskManagement.png)  
+Manage holdings, track investments, and calculate stop-loss.  
 
-1. Enter a stock symbol (e.g., AAPL for Apple)
-2. Select your preferred time horizon (Short/Mid/Long Term)
-3. Configure risk management parameters
-4. Click "Analyze Stock" to generate insights
+### ✅ Stock Data Statistics  
+![Data Statistics](images/Data_statistics.png)  
+Comprehensive stock market statistics and insights.  
 
-The application provides:
-- Price trend analysis
-- Technical indicator analysis
-- Pattern detection
-- ML-based price predictions
-- Support/Resistance levels
-- Risk management calculations
+---
 
-## 🔧 Project Structure
+## 📊 How It Works  
+1️⃣ **Enter Stock Symbol** – Type in a stock symbol (e.g., AAPL for Apple).  
+2️⃣ **Select Time Horizon** – Choose between short-term, mid-term, or long-term analysis.  
+3️⃣ **Risk Management Settings** – Adjust stop-loss and position sizing.  
+4️⃣ **Click “Analyze Stock”** – Get predictions, signals, and statistical insights.  
 
-```
-stock-prediction-pro/
-├── app.py              # Main Streamlit application
-├── model.py            # ML models and data processing
-├── tech.py             # Technical analysis functions
-├── pattern_scanner.py  # Chart pattern detection
-├── requirements.txt    # Project dependencies
-└── README.md          # Project documentation
-```
+---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies & Tools Used  
 
-- **Streamlit**: Web application framework
-- **yfinance**: Stock data retrieval
-- **pandas**: Data manipulation and analysis
-- **scikit-learn**: Machine learning models
-- **XGBoost & CatBoost**: Gradient boosting frameworks
-- **Plotly & Matplotlib**: Data visualization
-- **ta**: Technical analysis calculations
+### 🚀 Application Framework  
+🔹 Python, Streamlit  
 
-## 🔄 Future Improvements
+### 🤖 Machine Learning Models  
+🔹 SVM, KNN, Decision Trees, Random Forest, XGBoost, CatBoost, Linear Regression  
 
-- [ ] Add more advanced ML models
-- [ ] Implement backtesting functionality
-- [ ] Add portfolio optimization features
-- [ ] Include sentiment analysis
-- [ ] Add more chart patterns
-- [ ] Implement real-time alerts
+### 📈 Data Processing & APIs  
+🔹 pandas, NumPy, scikit-learn, statsmodels  
+🔹 yfinance, Alpha Vantage API, Yahoo Finance API  
 
-## 📝 License
+### 📊 Visualization & Reporting  
+🔹 Plotly, Matplotlib, Seaborn  
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### 📉 Technical & Statistical Analysis  
+🔹 ta (Technical Analysis Library)  
 
-## 🤝 Contributing
+### 💰 Portfolio & Risk Management  
+🔹 Backtesting Engine, Custom Risk Models, Real-time Market Signals  
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+---
 
-## 👨‍💻 Author
+## 🔄 Future Enhancements  
+🔹 AI-driven Market Sentiment Analysis.  
+🔹 Internal Financial News Integration.  
+🔹 AI Trading Assistant with real-time trading suggestions.  
+🔹 Portfolio Optimization using deep learning strategies.  
+🔹 Advanced Backtesting & Strategy Evaluation.  
 
-Pandey G. - [@sb_ritik](https://www.instagram.com/sb_ritik)
+---
+
+## 📜 License  
+This project is private and not open-source. Contact for collaboration or licensing inquiries.  
+
+---
+
+## 👨‍💻 Author & Contact  
+**Pandey G. (https://www.instagram.com/sb_ritik/)**  
+📧 Email: your-ritikpandey.4161@gmail.com 
+
