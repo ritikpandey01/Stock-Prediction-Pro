@@ -14,7 +14,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 A modern, intuitive UI for effortless stock analysis.  
 📌 User-friendly dashboards for clear visualization.
 
-![Sleek UI](sleek_ui_screenshot.png)
+![Sleek UI](images/sleek_ui_screenshot.png)
 
 ---
 
@@ -22,7 +22,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Enter stock symbols, set timeframes, and configure risk preferences.  
 📌 Supports multiple stock symbols simultaneously.
 
-![Stock Input](stock_input_screenshot.png)
+![Stock Input](images/stock_input_screenshot.png)
 
 ---
 
@@ -30,7 +30,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Interactive charts with real-time stock trends and insights.  
 📌 Customizable chart settings for better analysis.
 
-![Price Analysis](price_analysis_screenshot.png)
+![Price Analysis](images/price_analysis_screenshot.png)
 
 ---
 
@@ -38,7 +38,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Comprehensive insights into stock behavior and performance.  
 📌 Historical price trends and volatility analysis.
 
-![Data Analysis](data_analysis_screenshot.png)
+![Data Analysis](images/data_analysis_screenshot.png)
 
 ---
 
@@ -46,7 +46,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Includes RSI, MACD, Bollinger Bands, Moving Averages, and more.  
 📌 Personalized indicator selection for customized analysis.
 
-![Technical Indicators](technical_indicators_screenshot.png)
+![Technical Indicators](images/technical_indicators_screenshot.png)
 
 ---
 
@@ -54,7 +54,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Smart buy, sell, and hold signals for optimized decision-making.  
 📌 AI-based trend forecasting for improved predictions.
 
-![AI Trading Signals](ai_trading_signals_screenshot.png)
+![AI Trading Signals](images/ai_trading_signals_screenshot.png)
 
 ---
 
@@ -62,7 +62,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Leverages SVM, KNN, Decision Trees, and XGBoost for stock forecasts.  
 📌 Enhanced model training with real-time data updates.
 
-![Machine Learning Predictions](ml_predictions_screenshot.png)
+![Machine Learning Predictions](images/ml_predictions_screenshot.png)
 
 ---
 
@@ -70,7 +70,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Identifies key patterns like Head & Shoulders, Double Tops, and Triangles.  
 📌 Detects emerging trends with AI-assisted recognition.
 
-![Pattern Recognition](pattern_recognition_screenshot.png)
+![Pattern Recognition](images/pattern_recognition_screenshot.png)
 
 ---
 
@@ -78,7 +78,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Manage investments, track holdings, and calculate stop-loss strategies.  
 📌 Custom risk assessment for optimized portfolio management.
 
-![Portfolio Management](portfolio_management_screenshot.png)
+![Portfolio Management](images/portfolio_management_screenshot.png)
 
 ---
 
@@ -86,7 +86,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Get detailed market statistics and stock trends.  
 📌 Real-time market fluctuations and sentiment analysis.
 
-![Stock Statistics](stock_statistics_screenshot.png)
+![Stock Statistics](images/stock_statistics_screenshot.png)
 
 ---
 
