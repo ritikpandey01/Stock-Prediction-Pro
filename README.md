@@ -146,4 +146,5 @@ This project is private and not open-source. Contact for collaboration or licens
 ## 👨‍💻 Author & Contact
 
 Pandey G.[@sb_ritik](https://www.instagram.com/sb_ritik/)
+
 📧 Email: ritikpandey.4161@gmail.com
