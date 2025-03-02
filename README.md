@@ -59,7 +59,7 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="images/sleek_ui_screenshot.png" width="100%" alt="Advanced Stock Price Prediction Pro UI"/>
+        <img src="images/1.png" width="100%" alt="Advanced Stock Price Prediction Pro UI"/>
         <p><i>Intuitive dashboard designed for clarity and precision</i></p>
       </div>
     </td>
@@ -72,19 +72,19 @@
   <table>
     <tr>
       <td width="33%" align="center">
-        <img src="images/price_analysis_screenshot.png" alt="Price Analysis" width="100%"/>
+        <img src="images/2.png" alt="Price Analysis" width="100%"/>
         <h3>Dynamic Analytics</h3>
         <p>Interactive price charts with pattern recognition and trend analysis</p>
       </td>
       <td width="33%" align="center">
-        <img src="images/ml_predictions_screenshot.png" alt="ML Predictions" width="100%"/>
-        <h3>Predictive Intelligence</h3>
-        <p>ML-based forecasting with multi-model consensus signals</p>
+        <img src="images/3.png" alt="Advanced Analysis" width="100%"/>
+        <h3>Advanced Analysis</h3>
+        <p>Complex graphs with Bollinger Bands, RSI, MACD, and MFI</p>
       </td>
       <td width="33%" align="center">
-        <img src="images/ai_trading_signal_screenshot.png" alt="AI Trading Signals" width="100%"/>
-        <h3>Smart Trading Signals</h3>
-        <p>AI-generated buy/sell recommendations with confidence ratings</p>
+        <img src="images/4.png" alt="Support & Resistance" width="100%"/>
+        <h3>Support & Resistance</h3>
+        <p>Identifying key support, resistance, and pivot points</p>
       </td>
     </tr>
   </table>
@@ -96,12 +96,20 @@
 <summary><b>🎨 Intuitive Analytics Dashboard</b></summary>
 <br>
 Experience financial data through an elegant, user-centric interface designed for both novice and professional investors. Our responsive dashboard puts critical market insights at your fingertips.
+
+<div align="center">
+  <img src="images/feature-1.png" width="100%" alt="Intuitive Analytics Dashboard"/>
+</div>
 </details>
 
 <details>
 <summary><b>📊 Dynamic Visualization Engine</b></summary>
 <br>
 Explore interactive charts with real-time trends, customizable parameters, and comprehensive visualization options that bring complex market data to life.
+
+<div align="center">
+  <img src="images/feature-2.png" width="100%" alt="Dynamic Visualization Engine"/>
+</div>
 </details>
 
 <details>
@@ -109,7 +117,9 @@ Explore interactive charts with real-time trends, customizable parameters, and c
 <br>
 Unlock profound insights into stock behavior through multi-dimensional analysis of historical patterns, volatility metrics, and market correlations.
 
-![Data Analysis](images/data_analysis_screenshot.png)
+<div align="center">
+  <img src="images/feature-3.png" width="100%" alt="Deep Market Analysis"/>
+</div>
 </details>
 
 <details>
@@ -117,19 +127,29 @@ Unlock profound insights into stock behavior through multi-dimensional analysis 
 <br>
 Access a comprehensive suite of technical analysis tools including RSI, MACD, Bollinger Bands, and custom moving averages—all configurable to your trading strategy.
 
-![Technical Indicators](images/technical_indicators_screenshot.png)
+<div align="center">
+  <img src="images/feature-4.png" width="100%" alt="Professional Technical Indicators"/>
+</div>
 </details>
 
 <details>
 <summary><b>🤖 AI-Driven Trading Intelligence</b></summary>
 <br>
 Leverage cutting-edge artificial intelligence to generate precise buy, sell, and hold signals backed by advanced predictive algorithms and pattern recognition.
+
+<div align="center">
+  <img src="images/feature-5.png" width="100%" alt="AI-Driven Trading Intelligence"/>
+</div>
 </details>
 
 <details>
 <summary><b>🧠 Multi-Model Machine Learning</b></summary>
 <br>
 Benefit from ensemble predictions powered by SVM, KNN, Decision Trees, Random Forest, XGBoost, and other advanced models, continuously refined with real-time market data.
+
+<div align="center">
+  <img src="images/feature-6.png" width="100%" alt="Multi-Model Machine Learning"/>
+</div>
 </details>
 
 <details>
@@ -137,7 +157,9 @@ Benefit from ensemble predictions powered by SVM, KNN, Decision Trees, Random Fo
 <br>
 Identify critical chart patterns with precision—from Head & Shoulders to Fibonacci retracements—using our proprietary AI-assisted recognition algorithms.
 
-![Pattern Recognition](images/pattern_recognition_screenshot.png)
+<div align="center">
+  <img src="images/feature-7.png" width="100%" alt="Advanced Pattern Recognition"/>
+</div>
 </details>
 
 <details>
@@ -145,7 +167,9 @@ Identify critical chart patterns with precision—from Head & Shoulders to Fibon
 <br>
 Take control of your investments with integrated tools for tracking holdings, optimizing allocations, implementing stop-loss strategies, and quantifying risk exposure.
 
-![Portfolio Management](images/portfolio_management_screenshot.png)
+<div align="center">
+  <img src="images/feature-8.png" width="100%" alt="Comprehensive Portfolio Management"/>
+</div>
 </details>
 
 <details>
@@ -153,8 +177,11 @@ Take control of your investments with integrated tools for tracking holdings, op
 <br>
 Stay informed with instant access to key market metrics, sentiment indicators, and volatility assessments that drive successful trading decisions.
 
-![Stock Statistics](images/stock_statistics_screenshot.png)
+<div align="center">
+  <img src="images/feature-9.png" width="100%" alt="Real-Time Market Statistics"/>
+</div>
 </details>
+
 
 ## 🚀 Start Trading Smarter in 4 Steps
 
