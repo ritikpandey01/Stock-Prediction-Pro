@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="images/sleek_ui_screenshot.png" width="100%" alt="Advanced Stock Price Prediction Pro"/>
-  
   # 🔮 Advanced Stock Price Prediction Pro
   
   <h3>
@@ -60,8 +58,8 @@
     </td>
     <td width="40%">
       <div align="center">
-        <img src="images/ai_trading_signal_screenshot.png" width="100%" alt="AI Trading Signals"/>
-        <p><i>AI-powered trading signals with real-time accuracy</i></p>
+        <img src="images/sleek_ui_screenshot.png" width="100%" alt="Advanced Stock Price Prediction Pro UI"/>
+        <p><i>Intuitive dashboard designed for clarity and precision</i></p>
       </div>
     </td>
   </tr>
@@ -83,9 +81,9 @@
         <p>ML-based forecasting with multi-model consensus signals</p>
       </td>
       <td width="33%" align="center">
-        <img src="images/portfolio_management_screenshot.png" alt="Portfolio Management" width="100%"/>
-        <h3>Risk Management</h3>
-        <p>Strategic portfolio oversight with position sizing and risk assessment</p>
+        <img src="images/ai_trading_signal_screenshot.png" alt="AI Trading Signals" width="100%"/>
+        <h3>Smart Trading Signals</h3>
+        <p>AI-generated buy/sell recommendations with confidence ratings</p>
       </td>
     </tr>
   </table>
@@ -145,6 +143,8 @@ Identify critical chart patterns with precision—from Head & Shoulders to Fibon
 <summary><b>💼 Comprehensive Portfolio Management</b></summary>
 <br>
 Take control of your investments with integrated tools for tracking holdings, optimizing allocations, implementing stop-loss strategies, and quantifying risk exposure.
+
+![Portfolio Management](images/portfolio_management_screenshot.png)
 </details>
 
 <details>
