@@ -4,7 +4,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 
 🚀 **Live Demo**
 
-👉 [Access the Application](https://stock-prediction-pro.onrender.com/)
+👉 [Access the Application](https://stock-price-predictor-and-analyser.onrender.com)
 
 ---
 
