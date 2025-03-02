@@ -117,6 +117,14 @@ Unlock profound insights into stock behavior through multi-dimensional analysis 
 </details>
 
 <details>
+<summary><b>⚡ Support and Resistance Levels</b></summary>
+<br>
+Get accurate support and resistance levels to make informed trading decisions with pivot points to guide your strategy.
+
+![Support and Resistance](images/4.png)
+</details>
+
+<details>
 <summary><b>📈 Professional Technical Indicators</b></summary>
 <br>
 Access a comprehensive suite of technical analysis tools including RSI, MACD, Bollinger Bands, and custom moving averages—all configurable to your trading strategy.
@@ -133,6 +141,14 @@ Leverage cutting-edge artificial intelligence to generate precise buy, sell, and
 </details>
 
 <details>
+<summary><b>📊 Price Prediction Visualization</b></summary>
+<br>
+View interactive forecast charts that illustrate potential price movements based on our machine learning models, with confidence intervals and trend projections.
+
+![Price Prediction Chart](images/8.png)
+</details>
+
+<details>
 <summary><b>🧠 Multi-Model Machine Learning</b></summary>
 <br>
 Benefit from ensemble predictions powered by SVM, KNN, Decision Trees, Random Forest, XGBoost, and other advanced models, continuously refined with real-time market data.
@@ -141,11 +157,26 @@ Benefit from ensemble predictions powered by SVM, KNN, Decision Trees, Random Fo
 </details>
 
 <details>
-<summary><b>👁️ Advanced Pattern Recognition</b></summary>
+<summary><b>📈 Market Data Statistics</b></summary>
+<br>
+Stay informed with instant access to key market metrics, sentiment indicators, and volatility assessments that drive successful trading decisions.
+
+![Data Overview](images/10.png)
+</details>
+
+<details>
+<summary><b>👁️ Advanced Pattern Detection</b></summary>
 <br>
 Identify critical chart patterns with precision using our proprietary AI-assisted recognition algorithms.
 
 ![Pattern Detection](images/11.png)
+</details>
+
+<details>
+<summary><b>📊 Pattern Visualization</b></summary>
+<br>
+See detected patterns directly visualized on your charts, making technical analysis intuitive and actionable.
+
 ![Pattern Visualization](images/12.png)
 </details>
 
@@ -155,22 +186,6 @@ Identify critical chart patterns with precision using our proprietary AI-assiste
 Take control of your investments with integrated tools for tracking holdings, optimizing allocations, implementing stop-loss strategies, and quantifying risk exposure.
 
 ![Portfolio Management](images/12.png)
-</details>
-
-<details>
-<summary><b>📊 Real-Time Market Statistics</b></summary>
-<br>
-Stay informed with instant access to key market metrics, sentiment indicators, and volatility assessments that drive successful trading decisions.
-
-![Data Overview](images/10.png)
-</details>
-
-<details>
-<summary><b>⚡ Support and Resistance Levels</b></summary>
-<br>
-Get accurate support and resistance levels to make informed trading decisions with pivot points to guide your strategy.
-
-![Support and Resistance](images/4.png)
 </details>
 
 ## 🚀 Start Trading Smarter in 4 Steps
@@ -227,6 +242,63 @@ Get accurate support and resistance levels to make informed trading decisions wi
 | **Custom Dashboard Layouts** | User-configurable interface with drag-and-drop components | 🟢 Planned |
 | **Multi-Asset Expansion** | Support for cryptocurrencies, forex, and commodities | 🟢 Planned |
 | **Predictive Risk Assessment** | AI-driven forecasting of market volatility and downside risk | 🟢 Planned |
+
+## 📸 Feature Gallery
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="images/2.png" alt="Price Analysis" width="100%"/>
+        <p><b>Real-time Price Analysis</b></p>
+      </td>
+      <td width="50%" align="center">
+        <img src="images/3.png" alt="Advanced Analysis" width="100%"/>
+        <p><b>Advanced Technical Analysis</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="images/4.png" alt="Support and Resistance" width="100%"/>
+        <p><b>Support & Resistance Levels</b></p>
+      </td>
+      <td width="50%" align="center">
+        <img src="images/5.png" alt="Technical Indicators" width="100%"/>
+        <p><b>Technical Indicators Dashboard</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="images/7.png" alt="ML Predictions" width="100%"/>
+        <p><b>ML Prediction Results</b></p>
+      </td>
+      <td width="50%" align="center">
+        <img src="images/8.png" alt="Price Prediction Chart" width="100%"/>
+        <p><b>Price Prediction Visualization</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="images/9.png" alt="Prediction Insights" width="100%"/>
+        <p><b>Prediction Insights & Targets</b></p>
+      </td>
+      <td width="50%" align="center">
+        <img src="images/10.png" alt="Data Overview" width="100%"/>
+        <p><b>Market Data Statistics</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="images/11.png" alt="Pattern Detection" width="100%"/>
+        <p><b>Advanced Pattern Detection</b></p>
+      </td>
+      <td width="50%" align="center">
+        <img src="images/12.png" alt="Pattern Visualization" width="100%"/>
+        <p><b>Pattern Visualization & Portfolio</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🔒 License
 
