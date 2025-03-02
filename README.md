@@ -97,7 +97,7 @@
 <br>
 Experience financial data through an elegant, user-centric interface designed for both novice and professional investors. Our responsive dashboard puts critical market insights at your fingertips.
 
-![User Interface](images/1.png)
+![User Interface](images/6.png)
 </details>
 
 <details>
