@@ -22,7 +22,7 @@ A cutting-edge stock analysis and prediction platform that integrates AI, real-t
 📌 Enter stock symbols, set timeframes, and configure risk preferences.  
 📌 Supports multiple stock symbols simultaneously.
 
-![Stock Input](images/stock_input_screenshot.png)
+<!--![Stock Input](images/stock_input_screenshot.png)-->
 
 ---
 
