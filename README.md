@@ -1,7 +1,7 @@
 <div align="center">
-  <h4>
+  <h1>
    <span style="border-bottom: 2px solid #FF6B6B;">🔮 Advanced Stock Price Prediction Pro</span> &nbsp; 
-  
+  </h1>
   <h3>
     <span style="border-bottom: 2px solid #FF6B6B;">PREDICT</span> &nbsp;•&nbsp; 
     <span style="border-bottom: 2px solid #4ECDC4;">ANALYZE</span> &nbsp;•&nbsp; 
