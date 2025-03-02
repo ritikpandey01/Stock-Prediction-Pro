@@ -1,10 +1,39 @@
 # 🔮 Advanced Stock Price Prediction Pro
 
-A sophisticated AI-powered platform for stock analysis, predictive modeling, and portfolio optimization that transforms market data into actionable investment insights.
-
-[![Live Demo](https://img.shields.io/badge/DEMO-Access%20Application-blue?style=for-the-badge)](https://stock-price-predictor-and-analyser.onrender.com)
-
 ![Header Banner](images/sleek_ui_screenshot.png)
+
+## Experience AI-Powered Stock Analysis & Prediction
+
+A sophisticated platform that transforms complex market data into actionable investment insights through advanced AI, real-time analytics, and intelligent portfolio management.
+
+<div align="center">
+  <a href="https://stock-price-predictor-and-analyser.onrender.com">
+    <img src="https://img.shields.io/badge/TRY%20LIVE%20DEMO-Access%20Application-4285F4?style=for-the-badge&logo=react&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <img src="images/price_analysis_screenshot.png" alt="Price Analysis" width="100%">
+        <p align="center"><b>Real-time Analytics</b></p>
+      </td>
+      <td width="33%">
+        <img src="images/ai_trading_signal_screenshot.png" alt="AI Trading Signals" width="100%">
+        <p align="center"><b>AI Trading Signals</b></p>
+      </td>
+      <td width="33%">
+        <img src="images/portfolio_management_screenshot.png" alt="Portfolio Management" width="100%">
+        <p align="center"><b>Portfolio Management</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 🌟 Features that Set Us Apart
 
@@ -18,8 +47,6 @@ Experience financial data through an elegant, user-centric interface designed fo
 <summary><b>📊 Dynamic Visualization Engine</b></summary>
 <br>
 Explore interactive charts with real-time trends, customizable parameters, and comprehensive visualization options that bring complex market data to life.
-
-![Price Analysis](images/price_analysis_screenshot.png)
 </details>
 
 <details>
@@ -42,8 +69,6 @@ Access a comprehensive suite of technical analysis tools including RSI, MACD, Bo
 <summary><b>🤖 AI-Driven Trading Intelligence</b></summary>
 <br>
 Leverage cutting-edge artificial intelligence to generate precise buy, sell, and hold signals backed by advanced predictive algorithms and pattern recognition.
-
-![AI Trading Signals](images/ai_trading_signal_screenshot.png)
 </details>
 
 <details>
@@ -66,8 +91,6 @@ Identify critical chart patterns with precision—from Head & Shoulders to Fibon
 <summary><b>💼 Comprehensive Portfolio Management</b></summary>
 <br>
 Take control of your investments with integrated tools for tracking holdings, optimizing allocations, implementing stop-loss strategies, and quantifying risk exposure.
-
-![Portfolio Management](images/portfolio_management_screenshot.png)
 </details>
 
 <details>
